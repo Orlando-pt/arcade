@@ -1,0 +1,24 @@
+[submodule "clumsy-bird"]
+	path = clumsy-bird
+	url = git@github.com:ellisonleao/clumsy-bird.git
+[submodule "pacman-canvas"]
+	path = pacman-canvas
+	url = git@github.com:platzhersh/pacman-canvas.git
+[submodule "canvas-tetris"]
+	path = canvas-tetris
+	url = git@github.com:dionyziz/canvas-tetris.git
+[submodule "Tic-tac-toe"]
+	path = Tic-tac-toe
+	url = git@github.com:trohalska/Tic-tac-toe.git
+[submodule "DuckHunt-JS"]
+	path = DuckHunt-JS
+	url = git@github.com:MattSurabian/DuckHunt-JS.git
+[submodule "2048"]
+	path = 2048
+	url = git@github.com:gabrielecirulli/2048.git
+[submodule "Astray"]
+	path = Astray
+	url = git@github.com:wwwtyro/Astray.git
+[submodule "javascript-snakes"]
+	path = javascript-snakes
+	url = git@github.com:jakesgordon/javascript-snakes.git
